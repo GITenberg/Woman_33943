@@ -1,0 +1,45 @@
+_repo: Woman_33943
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Barbusse, Henri
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '1472'
+    url: http://www.gutenberg.org/2009/agents/1472
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Barbusse
+  translator:
+    agent_name: Seltzer, Adele Szold
+    alias: Seltzer, Adele S.
+    birthdate: 1876
+    deathdate: 1940
+    gutenberg_agent_id: '7245'
+    url: http://www.gutenberg.org/2009/agents/7245
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marx, Magdeleine
+    aliases:
+    - Paz, Magdeleine Legendre, Mme.
+    - Legendre, Magdeleine
+    birthdate: 1889
+    deathdate: 1973
+    gutenberg_agent_id: '36695'
+    url: http://www.gutenberg.org/2009/agents/36695
+    wikipedia: http://fr.wikipedia.org/wiki/Magdeleine_Paz
+description: ''
+gutenberg_issued: '2010-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcc 'PQ'
+title: Woman
+url: http://www.gutenberg.org/ebooks/33943
